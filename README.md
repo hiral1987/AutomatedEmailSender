@@ -77,8 +77,6 @@ SMTP_PORT = 587
 
 ## 📌 To Do (Optional Features)
 
-- [ ] Add support for attachments
-- [ ] Add support for rich HTML email templates
 - [ ] Add email scheduling (using cron or APScheduler)
 - [ ] Add logging and error report export
 
